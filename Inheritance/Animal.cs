@@ -14,7 +14,7 @@ public class Animal
         Bloodedness = bloodedness;
         PhylogenicClass = phylogenicClass;
     }
-    
+
     public string Name { get; set; }
     public string BoneType { get; set; }
     public string Species { get; set; }
